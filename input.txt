@@ -1,0 +1,8 @@
+Nome do usuario: Renan
+Mês inicial: 02
+Mês final: 12
+Ano: 2023
+Banco: Banrisul
+Empresa: ATACADO E DISTRIBUIDORA SCHIRMANN LTDA
+Salvar: S;/Contabilidade/Robô-RobsonEXTRATOS/12.2023/EXTRATOSATRASADOS2023
+Mostrar Execução: 1
